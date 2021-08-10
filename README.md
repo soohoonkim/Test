@@ -1,5 +1,7 @@
 # Test
 
-Testing one more time 2nd update
+Testing
 
+Testing from remote to local
 Testing conflict - a line added locally
+4th update
